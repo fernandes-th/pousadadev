@@ -186,7 +186,7 @@ iframe {
         align-items: center;
     }
     .header-title {
-        font-size: 40px;
+        font-size: 36px;
     }
     .header-menu {
         display: none;
@@ -238,8 +238,15 @@ iframe {
     .atracao-texto {
         text-align: center;
     }
+    .atracao-texto p {
+        text-align: left;
+    }
+
     .atracao-img img {
         width: 250px;
+    }
+    .atracao-img {
+        order: -1;
     }
 }
 
