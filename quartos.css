@@ -23,6 +23,11 @@
 
 .quartos-info {
     margin-left: 35px;
+    text-align: center;
+}
+
+.quartos-info h4 {
+    margin-left: -40px;
 }
 
 .lista-info-quarto {
