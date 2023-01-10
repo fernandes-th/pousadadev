@@ -35,8 +35,8 @@
     margin-right: 25px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
-    column-gap: 100px;
+    justify-content: center;
+    column-gap: 30px;
     row-gap: 15px;
     padding-right: 20px;
 }
@@ -45,6 +45,7 @@
     background-color: rgba(232, 232, 232, 0.397);
     padding: 8px;
     border-radius: 5px;
+    list-style-type: none;
 }
 
 p {
